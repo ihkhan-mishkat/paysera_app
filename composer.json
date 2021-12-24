@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Paysera\\": "src"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^5.7"
+  }
+}
