@@ -1,11 +1,12 @@
-##Paysera PHP developer task
+# Paysera PHP developer task
 
-#To run application:
+## To run application:
 
-composer install
-php script.php input.csv
+### $ composer install
+### $ php script.php input.csv
 
-#To run tests:
 
-composer install
-vendor\bin\phpunit Tests
+## To run tests:
+
+### $ composer install
+### $ vendor/bin/phpunit Tests
